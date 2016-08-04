@@ -1,0 +1,38 @@
+_repo: The-American_177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: During a trip to Europe, wealthy American businessman Christopher Newman
+  proposes marriage to the scintillating and beautiful aristocrat Claire de Cintri.
+  To his dismay, he comes up against the machinations of her impoverished but proud
+  family, who find Newman to be a vulgar example of the American privileged class.
+  Combining elements of comedy, tragedy, romance, and melodrama, this tale of thwarted
+  desire vividly contrasts nineteenth-century American and European manners.
+gutenberg_issued: '2006-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Separation (Psychology) -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Culture conflict -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: The American
+url: http://www.gutenberg.org/ebooks/177
