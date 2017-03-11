@@ -1,5 +1,8 @@
 _repo: The-American_177
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -14,6 +17,8 @@ description: During a trip to Europe, wealthy American businessman Christopher N
   family, who find Newman to be a vulgar example of the American privileged class.
   Combining elements of comedy, tragedy, romance, and melodrama, this tale of thwarted
   desire vividly contrasts nineteenth-century American and European manners.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/177#The-American
 gutenberg_issued: '2006-03-12'
 gutenberg_type: Text
 identifiers:
